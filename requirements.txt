@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name scrape_env --file requirements.txt --channel conda-forge
+# platform: linux-64
+streamlit==1.24.1
+pandas==1.5.3
+plotly==5.17.0
